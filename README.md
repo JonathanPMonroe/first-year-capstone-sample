@@ -1,6 +1,6 @@
-# MACS-30100: Perspectives on Computational Modeling
+# University of Chicago First Year Capstone Project (Jonathan Monroe)
 
-Welcome! This repository contains course projects and materials developed during my graduate coursework in computational modeling and machine learning at the University of Chicago.
+Welcome! This repository contains materials developed during my first year graduate coursework in computational modeling and machine learning at the University of Chicago.
 
 ## Highlighted Project: Deepfake Detection Pipeline (P3)
 
