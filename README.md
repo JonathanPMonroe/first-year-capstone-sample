@@ -29,7 +29,7 @@ Performance was measured using standard metrics: Precision, Recall, F1-score, Co
 
 **[Dataset Source (Kaggle)](https://www.kaggle.com/competitions/deepfake-detection-challenge/data)**
 
-### ⚙️ Model Summaries
+### Model Summaries
 
 #### EfficientNet (Deep Learning)
 
