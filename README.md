@@ -64,5 +64,5 @@ Performance was evaluated using standard metrics, including precision, recall, F
 For questions or further discussion:
 
 - Name: Jonathan Monroe  
-- Email: [jonathanmonroe@uchicago.edu](mailto:jonathanmonroe@uchicago.edu)  
+- Email: [jonathanmonroe@uchicago.edu](mailto:researchbyjohnm@gmail.com)  
 - GitHub: [github.com/JonathanPMonroe/first-year-capstone-sample](https://github.com/JonathanPMonroe/first-year-capstone-sample)
