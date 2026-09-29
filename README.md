@@ -1,7 +1,7 @@
-# University of Chicago — First-Year Capstone Project  
+# University of Chicago — First-Year MA Capstone Project  
 **Jonathan Monroe**
 
-This repository contains the materials for my first-year capstone project in computational modeling and machine learning at the University of Chicago.
+This repository contains the materials for my first-year MA capstone project in computational modeling and machine learning at the University of Chicago.
 
 ## Project: Deepfake Detection Pipeline (P3)
 
